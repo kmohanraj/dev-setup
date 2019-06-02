@@ -1,4 +1,4 @@
-#### Environment Setup for Mac and Ubuntu
+__ Environment Setup for Mac and Ubuntu __
 
 
 [1.Mac Dev Setup](mac-dev-setup.sh)</br>
